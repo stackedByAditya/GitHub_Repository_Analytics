@@ -6,7 +6,9 @@ Built using **Python, Streamlit, Pandas, and Plotly**, this project transforms r
 
 ## 📸 Project Preview
 
-<!-- Add your dashboard screenshot here after uploading it to the repository -->
+![GitHub Repository Analytics Dashboard](Screenshot%202026-10-21%20152211.png)
+
+![GitHub Repository Analytics Dashboard - Additional View](Screenshot%202026-10-21%20152233.png)
 
 *Screenshot of the GitHub Repository Analytics dashboard will be added here.*
 
